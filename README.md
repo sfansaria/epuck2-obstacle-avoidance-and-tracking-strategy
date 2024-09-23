@@ -5,6 +5,8 @@ Task 1
 Design, implement and test a control strategy for an e-puck2 robot
 ● to explore a bounded environment with obstacles.
 ● to avoid any collision with the environment boundary or obstacles.
+
+
 Task 2
 Design, implement and test a control strategy for the e-puck2 robot
 ● to chase an object in an open environment that is free of obstacles.
